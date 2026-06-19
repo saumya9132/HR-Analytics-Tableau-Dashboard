@@ -62,3 +62,6 @@ This chart highlights attrition trends across different age groups and genders, 
 ![HR Analytics Dashboard Header Section](dashboard-header.png)    ![HR Analytics Education Filter Section](education-dropdown-filter.png)
 
 The dashboard header presents key navigation elements, while the interactive Education filter enables users to explore HR metrics and attrition trends across different educational backgrounds.
+
+## Conclusion
+The HR Analytics Dashboard transforms raw workforce data into meaningful insights through interactive visualizations and KPI metrics. By analyzing employee attrition, demographics, job satisfaction, and workforce distribution, the dashboard helps identify key trends and supports data-driven decision-making. This project demonstrates practical skills in Tableau, data visualization, dashboard design, and business analytics.
