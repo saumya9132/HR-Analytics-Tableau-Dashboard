@@ -57,3 +57,6 @@ This chart highlights attrition trends across different education fields, helpin
 ![HR Analytics Attrition Rate by Gender for Different Age Groups Section](attrition-rate-by-gender-for-different-age-group.png)
 
 This chart highlights attrition trends across different age groups and genders, helping identify workforce segments with higher turnover and supporting data-driven HR decision-making.
+
+### Dashboard Header & Education Filter
+![HR Analytics Dashboard Header Section](dashboard-header.png)    ![HR Analytics Education Filter Section](education-dropdown-filter.png)
