@@ -48,3 +48,7 @@ This chart illustrates the distribution of employees across various age groups, 
 
 This visualization analyzes employee satisfaction levels across different job roles, providing insights into workforce engagement and employee experience. It helps identify areas where satisfaction is high or low, enabling organizations to make informed decisions to improve employee retention and workplace satisfaction.
 
+### Education Field wise Attrition
+![HR Analytics Education Field wise Attrition Section](education-field-wise-attrition.png)
+
+This chart highlights attrition trends across different education fields, helping identify workforce retention patterns and supporting data-driven HR decision-making.
