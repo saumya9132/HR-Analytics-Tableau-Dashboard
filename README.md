@@ -60,3 +60,5 @@ This chart highlights attrition trends across different age groups and genders, 
 
 ### Dashboard Header & Education Filter
 ![HR Analytics Dashboard Header Section](dashboard-header.png)    ![HR Analytics Education Filter Section](education-dropdown-filter.png)
+
+The dashboard header presents key navigation elements, while the interactive Education filter enables users to explore HR metrics and attrition trends across different educational backgrounds.
