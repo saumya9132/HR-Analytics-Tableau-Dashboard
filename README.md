@@ -25,8 +25,12 @@ An interactive Tableau dashboard designed to analyze employee attrition, demogra
 
 ### KPI Section
 ![HR Analytics KPI Section](kpi-section.png)
+
 This section highlights key HR metrics such as Employee Count, Attrition Count, Attrition Rate, Active Employees, and Average Age, providing a quick overview of workforce trends and employee retention.
 
 ### Attrition by Gender
 ![HR Analytics Gender Attrition Section](attrition-by-gender.png)
 This visualization analyzes employee attrition across gender groups, providing insights into workforce retention patterns. It helps identify differences in attrition rates between male and female employees, supporting HR teams in developing targeted retention strategies and promoting workplace diversity.
+
+### Department wise Attrition
+![HR Analytics Department Attrition Section](department-wise-attrition.png)
