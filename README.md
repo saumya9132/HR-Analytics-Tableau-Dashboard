@@ -40,3 +40,11 @@ This chart highlights employee attrition across departments, helping identify tu
 
 ### Number of Employee by Age Group
 ![HR Analytics No of Employee by Age Group Section](count-of-employee-by-age-group.png)
+
+This chart illustrates the distribution of employees across various age groups, helping organizations understand workforce demographics and identify key employee segments.
+
+### Job Satisfaction Rating
+![HR Analytics Job Satisfaction Rating Section](job-satisfaction-rating.png)
+
+This visualization analyzes employee satisfaction levels across different job roles, providing insights into workforce engagement and employee experience. It helps identify areas where satisfaction is high or low, enabling organizations to make informed decisions to improve employee retention and workplace satisfaction.
+
