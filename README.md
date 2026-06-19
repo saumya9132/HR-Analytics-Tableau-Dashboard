@@ -34,3 +34,5 @@ This visualization analyzes employee attrition across gender groups, providing i
 
 ### Department wise Attrition
 ![HR Analytics Department Attrition Section](department-wise-attrition.png)
+
+This chart highlights employee attrition across departments, helping identify turnover patterns and areas that may require targeted retention strategies.
