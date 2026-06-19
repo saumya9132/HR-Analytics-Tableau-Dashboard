@@ -7,7 +7,7 @@
 ## Dashboard Overview
 An interactive Tableau dashboard designed to analyze employee attrition, demographics, job satisfaction, and workforce trends. The dashboard combines KPI cards, filters, and visualizations to transform HR data into actionable business insights and support data-driven decision-making.
 
-![HR Analytics Dashboard](dashboard-overview.png)
+![HR Analytics Dashboard](dashboard-overview-2.png)
 ### 🗝️Key Features
 - Employee Count KPI
 - Attrition Rate Analysis
