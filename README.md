@@ -1,1 +1,3 @@
-# HR-Analytics-Tableau-Dashboard
+# HR Analytics Tableau Dashboard
+
+![HR Analytics Dashboard](tableau-hr-analytics-dashboard.gif)
