@@ -30,9 +30,13 @@ This section highlights key HR metrics such as Employee Count, Attrition Count, 
 
 ### Attrition by Gender
 ![HR Analytics Gender Attrition Section](attrition-by-gender.png)
+
 This visualization analyzes employee attrition across gender groups, providing insights into workforce retention patterns. It helps identify differences in attrition rates between male and female employees, supporting HR teams in developing targeted retention strategies and promoting workplace diversity.
 
 ### Department wise Attrition
 ![HR Analytics Department Attrition Section](department-wise-attrition.png)
 
 This chart highlights employee attrition across departments, helping identify turnover patterns and areas that may require targeted retention strategies.
+
+### Number of Employee by Age Group
+![HR Analytics No of Employee by Age Group Section](count-of-employee-by-age-group.png)
