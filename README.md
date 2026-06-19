@@ -52,3 +52,8 @@ This visualization analyzes employee satisfaction levels across different job ro
 ![HR Analytics Education Field wise Attrition Section](education-field-wise-attrition.png)
 
 This chart highlights attrition trends across different education fields, helping identify workforce retention patterns and supporting data-driven HR decision-making.
+
+### Attrition Rate by Gender for Different Age Group
+![HR Analytics Attrition Rate by Gender for Different Age Groups Section](attrition-rate-by-gender-for-different-age-group.png)
+
+This chart highlights attrition trends across different age groups and genders, helping identify workforce segments with higher turnover and supporting data-driven HR decision-making.
